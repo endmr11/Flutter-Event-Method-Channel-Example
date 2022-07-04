@@ -1,0 +1,22 @@
+PODS:
+  - event_method_channel_example (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - event_method_channel_example (from `.symlinks/plugins/event_method_channel_example/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  event_method_channel_example:
+    :path: ".symlinks/plugins/event_method_channel_example/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  event_method_channel_example: f3f0fe383705913de3e966ceac6b9eed4e8ff4ee
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
